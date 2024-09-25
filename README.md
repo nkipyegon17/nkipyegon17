@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Data Analyst</h3>
 
 
-- 🔭 I’m currently working on various data projects including [Python Pandas Data Analyst Project](https://github.com/NickTheDataAnalyst/Data-Correlation-Check-With-Python/blob/main/Data_Correlation_Check_with_Python.ipynb)
+- 🔭 I’m currently working on various data projects including:
+- [Python Pandas Data Analyst Project](https://github.com/NickTheDataAnalyst/Data-Correlation-Check-With-Python/blob/main/Data_Correlation_Check_with_Python.ipynb)
+- [My SQL Data Analyst Project](https://github.com/nkipyegon17/MySQL-Code/blob/main/SQLQuery3%20Portfolio%20Project.sql)
 - 🌱 I’m currently learning **Advanced ML Models and AI to build advanced algorithms and models**
 - 🤝 I’m looking for organizations who need my data skills with **Python, SQL, R, Excel, Tableau, Power BI**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/nickson-kipyegon-data-analyst/)
